@@ -1320,7 +1320,7 @@
     "@mariozechner/pi-coding-agent": "0.65.2",
     "@mariozechner/pi-tui": "0.65.2",
     "@matrix-org/matrix-sdk-crypto-wasm": "18.0.0",
-    "@modelcontextprotocol/sdk": "1.29.0",
+    "@modelcontextprotocol/sdk": "1.32.0",
     "@mozilla/readability": "^0.6.0",
     "@sinclair/typebox": "0.34.49",
     "ajv": "^8.18.0",
@@ -1333,7 +1333,7 @@
     "express": "^5.2.1",
     "file-type": "22.0.0",
     "gaxios": "7.1.4",
-    "hono": "4.12.10",
+    "hono": "4.13.11",
     "ipaddr.js": "^2.3.0",
     "jiti": "^2.6.1",
     "json5": "^2.2.3",
@@ -1348,7 +1348,7 @@
     "playwright-core": "1.59.1",
     "proxy-agent": "^8.0.0",
     "qrcode-terminal": "^0.12.0",
-    "sharp": "^0.34.5",
+    "sharp": "^0.35.5",
     "sqlite-vec": "0.1.9",
     "tar": "7.5.13",
     "tslog": "^4.10.2",
@@ -1380,7 +1380,7 @@
     "tsdown": "0.21.7",
     "tsx": "^4.21.0",
     "typescript": "^6.0.2",
-    "vitest": "^4.1.2"
+    "vitest": "^5.0.5"
   },
   "peerDependencies": {
     "@napi-rs/canvas": "^0.1.89",
@@ -1402,7 +1402,7 @@
   "pnpm": {
     "overrides": {
       "@anthropic-ai/sdk": "0.81.0",
-      "hono": "4.12.10",
+      "hono": "4.13.11",
       "@hono/node-server": "1.19.10",
       "axios": "1.13.6",
       "defu": "6.1.5",
